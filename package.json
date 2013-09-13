@@ -1,0 +1,22 @@
+{
+  "name": "dummedronen",
+  "version": "0.0.1",
+  "description": "dummedronen ===========",
+  "main": "index.js",
+  "dependencies": { 
+    "ar-drone": "=0.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/watson/dummedronen.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watson/dummedronen/issues"
+  },
+  "private": true
+}
